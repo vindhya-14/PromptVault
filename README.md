@@ -29,7 +29,5 @@ Each technique is explained with simple language, examples, and structured forma
 - 🪟 **Glass Modals for Details**  
   Each card expands with animations, displaying full technique details.
 
----
 
-## 📁 Project Structure
 
